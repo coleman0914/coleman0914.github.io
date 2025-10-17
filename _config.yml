@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Coleman Casey"
   avatar : "/assets/images/coleman-casey-photo.jpg"
   bio    : "My name is Coleman Casey, and I am a senior at Charlotte Latin School interested in business."
   links:
