@@ -18,5 +18,5 @@ steps:
 The first step was to cut two pieces of t wood on the band saw, then cutting those in half to form 4 pieces of 0.5" thick wood. Then I was cutting 2 thin pieces of birch to put in between the pieces. Once I had all the pieces, I clamped and glued together the wood to form two blocks of wood with a thin piece of birch in the middle. I let the glue set overnight. While the glue was drying, I took the 2 brass barrels from the pen kit and made them rough by sanding them. This allows for the barrel to bond better with the superglue when they get glued inside the wood.
 
 
-Image of me working on pen:![PEN DOCUMENTATION Image](/assets/images/pendocumentatoin.jpg)
+Image of me working on pen: ![Pen documentation image](/assets/images/pen-documentation.jpg)
 Image of completed pen- I enjoy using it for my schoolwork: [COMPLETED PEN Image](/assets/images/completedpen.png)
