@@ -19,4 +19,4 @@ The first step was to cut two pieces of t wood on the band saw, then cutting tho
 
 
 Image of me working on pen: ![Pen documentation image](/assets/images/pen-documentation.jpg)
-Image of completed pen- I enjoy using it for my schoolwork: [COMPLETED PEN Image](/assets/images/completedpen.png)
+Image of completed pen- I enjoy using it for my schoolwork: [Completed pen image](/assets/images/completed pen.png)
