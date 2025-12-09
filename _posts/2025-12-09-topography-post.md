@@ -1,17 +1,18 @@
-(---
-
+---
+layout: post
 title: "Topography milling — Cashiers, NC"
 date: 2025-12-09 10:00:00 -0500
 author: "Coleman Casey"
-categories: [projects, cnc, topography]
-tags: [topography, bantam, milling, GIS]
+categories: [projects, posts, cnc, topography]
+tags: [topography, bantam, milling, GIS, aspire]
 excerpt: >
-	How I turned elevation data for Cashiers, NC into a milled wooden topography model — workflow, software, and machine setup.
-
+  How I turned elevation data for Cashiers, NC into a milled wooden topography model — workflow, software, and machine setup.
+permalink: /projects/topography-cashiers/
+published: true
 
 Short description
 
-I used Vectric Aspire to turn elevation data for Cashiers, NC into a 3D model, adjusted X/Y/Z placement and vertical scale, exported the job for the Bantam, and milled the model out of wood on a Bantam desktop mill. The project emphasized careful axis offsets and working on toolpaths.
+I used Vectric Aspire to turn elevation data for Cashiers, NC into a 3D model, adjusted X/Y/Z placement and vertical scale, exported the job for the Bantam, and milled the model out of wood on a Bantam desktop mill. The project emphasized careful axis offsets and conservative toolpaths.
 Thorough summary — how I made it
 
 
