@@ -34,9 +34,9 @@ I learned how to turn contour lines and elevation data into a physical model, wh
 
 Project files:
 
-- Download the Coleman Tahoe milling file: [Coleman Tahoe milling CNC](/assets/files/Coleman%20Tahoe%20project%20milling%20(1).cnc)
+-   Coleman Tahoe milling file: [Coleman Tahoe milling CNC](/assets/files/Coleman%20Tahoe%20project%20milling%20(1).cnc)
 
-- Download the Coleman CRV3D file: [coleman file.crv3d](/assets/files/coleman%20file.crv3d)
+-   Coleman CRV3D file: [coleman file.crv3d](/assets/files/coleman%20file.crv3d)
 
 
 
