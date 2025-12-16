@@ -3,15 +3,20 @@ Capstone Project Rubric:
 
 
 RESEARCH
-Description of final project choice, why chosen, and what a successful project would do
+Description of final project choice, why chosen, and what a successful project would do:
+
 My final project is a smart stool that combines making a stool with basic electronics. I chose this project because it allowed me to work with both physical components and electronics, which interested me more than doing only one or the other. I wanted to create something functional and interactive rather than just decorative, but at the same time I did not want to make something so hard because of my lack of experience in engineering. 
 
-A successful version of this project will function as a normal stool but also include a pressure sensor that detects when someone sits down. When pressure is applied, LED lights embedded in the stool will turn on, creating a visual response to the user. The electronics will be hidden underneath the stool so the design looks clean and intentional, with only the light visible. If completed successfully, the stool will be sturdy, visually appealing, and reliably respond to pressure.
+A successful version of this project: 
 
-Attribution of project serving as inspiration (author/maker and source)
+It will function as a normal stool but also include a pressure sensor that detects when someone sits down. When pressure is applied, LED lights embedded in the stool will turn on, creating a visual response to the user. The electronics will be hidden underneath the stool so the design looks clean and intentional, with only the light visible. If completed successfully, the stool will be sturdy, visually appealing, and reliably respond to pressure.
+
+Attribution of project serving as inspiration (author/maker and source):
+
 This project is inspired by my desire to make something physical but also something thatr includes creativity. My work onm tinkercad with electronics also gave me some input on how I will handle the electronics. The stool itself and the idea was derived from instructables and then after seeing the stool idea I watched a tutorial on youtube- then from there the idea was solidified. Tinkercad helped me understand how how LEDs are wired, and how Arduino code can be used to trigger outputs based on sensor input. Our use of the lab materials inspired me to do the physical component- this was from the pen project. 
 
-Description of how project is different than the source
+Description of how project is different than the source:
+
 Unlike many existing projects that focus only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused.
 
 Design Specification Considerations
