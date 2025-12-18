@@ -87,7 +87,7 @@ Arduino IDE (software tool)
 Laser cutter settings were adjusted for cardboard settings( vector cut because I was only cutting- no engraving) to ensure clean cuts without burning.
 
 
-FILES INCLUDED: 
+FILES INCLUDED FOR Prototype: 
 <div class="project-assets">
 	<h3>TC cardboard SVG</h3>
 ****The part of the file that represents my cardboard prototype is the circular base and the four long legs on the right side of the screen. 
