@@ -97,4 +97,13 @@ files included- the part of the file that represents my cardboard prototype is t
 </div>
 
 
-image explanation: obviously the cardboard is not a full representation of the stool, but everything is the same except for the thickness of the base and legs. The length of the legs and diameter of the stool is what I was testing- and each component that I was testing is the appropriate height. To clarify: I have wood selected from the shed with those exact heights, diameter, and length of the legs. That will be completed in the first couple weeks of second semester, along with assembling the electronic components of which have mostly been gathered. That is the plan
+image explanation: obviously the cardboard is not a full representation of the stool, but everything is the same except for the thickness of the base and legs. The length of the legs and diameter of the stool is what I was testing- and each component that I was testing is the appropriate height. To clarify: I have wood selected from the shed with those exact heights, diameter, and length of the legs. That will be completed in the first couple weeks of second semester, along with assembling the electronic components of which have mostly been gathered. That is the plan.
+
+Journaling portion:{% for post in site.posts %}
+  {% if post.path == "_posts/2025-12-18-2025-post-journaling.md" %}
+    <section class="embedded-journal">
+      <h2>{{ post.title }}</h2>
+      {{ post.content }}
+    </section>
+  {% endif %}
+{% endfor %}
