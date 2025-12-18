@@ -35,34 +35,42 @@ Visual simplicity, ensuring the LEDs enhance the design rather than distract fro
 
 These considerations have guided my physical design and they will guide my electronics layout when I complete it second semester.
 
-INSTRUCTIONS
-Final materials list including costs
-Cardboard (for prototyping)- at Latin
+INSTRUCTIONS:
 
-Wood (final stool structure)- At Latin
 
-Arduino microcontroller- at Latin
+Final materials list including costs: 
 
-Pressure sensor- will order with mr dubick in January- according to research should be 30/40 dollars
+1-Cardboard (for prototyping)- at Latin
 
-LEDs- at Latin(10/15 dollars)
+2-Wood (final stool structure)- At Latin
 
-Resistors- at latin
+3-Arduino microcontroller- at Latin
 
-PCB board- at Latin
+4-Pressure sensor- will order with mr dubick in January- according to research should be 30/40 dollars
 
-Wires- at Latin
+5-LEDs- at Latin(10/15 dollars)
 
-Power source (battery or USB)- will obtain 
+6-Resistors- at latin
 
-Wood glue, screws, sandpaper, finish- at Latin
+7-PCB board- at Latin
+
+8-Wires- at Latin
+
+9-Power source (battery or USB)- will obtain 
+
+10- Wood glue, screws, sandpaper, finish- at Latin
 
 Most electronics were provided through the lab or classroom supply, keeping costs low.
 
-Project Management (plan and deadlines)
+Project Management (plan and deadlines):
 To be completed later as instructed.
 
-Tools used:
+
+
+TOOLS USED:
+
+
+
  (hand tools and Fab Lab equipment)
 Laser cutter (for cardboard prototype pieces)
 
