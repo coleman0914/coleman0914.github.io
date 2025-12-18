@@ -108,3 +108,11 @@ Journaling portion:{% for post in site.posts %}
     </section>
   {% endif %}
 {% endfor %}
+
+Important decisions and Why:
+
+One of the biggest decisions I’ve made is to focus on building the physical stool first, and  that just makes the most sense to me. I want to know that the stool actually works as a stool before I start worrying about lights and wires and code. Figuring out the size and leg length now helps me avoid changing things later and having to redo parts of the electronics. I also decided to prototype everything in cardboard first because it let me mess around with proportions without stressing about wasting wood. Another choice I made was hiding all the electronics underneath so the stool still looks clean and intentional and not like something with parts glued on. All of these decisions kind of work together and help keep the project feeling doable instead of overwhelming.
+
+Challenges/mistakes so far: 
+
+One of the biggest challenges for me was  just getting started on the design specs, because I’ve never had to plan something like this in such a detailed way before. It was hard to figure out what information actually mattered and what I was supposed to decide this early on. At first I kept second-guessing myself and putting it off because I didn’t want to get something “wrong.” Once I started breaking it down into smaller decisions, like just focusing on size and materials, it became way less overwhelming. Prototyping in cardboard helped a lot because it let me physically see the design instead of just imagining it. After that, everything now has started to feel more real and manageable, and now I feel way more confident moving forward with the project.
