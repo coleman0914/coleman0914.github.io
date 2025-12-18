@@ -13,7 +13,7 @@ It will function as a normal stool but also include a pressure sensor that detec
 
 Attribution of project serving as inspiration (author/maker and source):
 
-This project is inspired by my desire to make something physical but also something thatr includes creativity. My work onm tinkercad with electronics also gave me some input on how I will handle the electronics. The stool itself and the idea was derived from instructables and then after seeing the stool idea I watched a tutorial on youtube- then from there the idea was solidified. Tinkercad helped me understand how how LEDs are wired, and how Arduino code can be used to trigger outputs based on sensor input. Our use of the lab materials inspired me to do the physical component- this was from the pen project. 
+This project is inspired by my desire to make something physical but also something that includes creativity. My work onm tinkercad with electronics also gave me some input on how I will handle the electronics. The stool itself and the idea was derived from instructables and then after seeing the stool idea I watched a tutorial on youtube- then from there the idea was solidified. Tinkercad helped me understand how how LEDs are wired, and how Arduino code can be used to trigger outputs based on sensor input. Our use of the lab materials inspired me to do the physical component- this was from the pen project. 
 
 Description of how project is different than the source:
 
@@ -76,9 +76,9 @@ Soldering iron
 
 Arduino IDE (software tool)
 
-Laser cutter settings were adjusted for cardboard thickness to ensure clean cuts without burning.
+Laser cutter settings were adjusted for cardboard settings( vector cut because I was only cutting- no engraving) to ensure clean cuts without burning.
 
-files included:
+files included- the part of the file that represents my cardboard prototype is the circular base and the four long legs on the right side of the screen. 
 
 <div class="project-assets">
 	<h3>TC cardboard SVG</h3>
@@ -96,3 +96,5 @@ files included:
 	</div>
 </div>
 
+
+image explanation: obviously the cardboard is not a full representation of the stool, but everything is the same except for the thickness of the base and legs. The length of the legs and diameter of the stool is what I was testing- and each component that I was testing is the appropriate height. To clarify: I have wood selected from the shed with those exact heights, diameter, and length of the legs. That will be completed in the first couple weeks of second semester, along with assembling the electronic components of which have mostly been gathered. That is the plan
