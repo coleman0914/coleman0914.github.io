@@ -78,3 +78,21 @@ Arduino IDE (software tool)
 
 Laser cutter settings were adjusted for cardboard thickness to ensure clean cuts without burning.
 
+files included:
+
+<div class="project-assets">
+	<h3>TC cardboard SVG</h3>
+	<p>Preview of the Tinkercad cardboard layout:</p>
+	<img src="{{ '/assets/files/TC_cardboard.svg' | relative_url }}" alt="TC cardboard layout" style="max-width:100%;height:auto;" />
+
+	<h3>Prototype images</h3>
+	<div class="image-gallery" style="display:flex;flex-wrap:wrap;gap:10px;">
+		<img src="{{ '/assets/images/unnamed.jpg' | relative_url }}" alt="unnamed" style="max-width:30%;height:auto;" />
+		<img src="{{ '/assets/images/unnamed%20(1).jpg' | relative_url }}" alt="unnamed (1)" style="max-width:30%;height:auto;" />
+		<img src="{{ '/assets/images/unnamed%20(2).jpg' | relative_url }}" alt="unnamed (2)" style="max-width:30%;height:auto;" />
+		<img src="{{ '/assets/images/unnamed%20(3).jpg' | relative_url }}" alt="unnamed (3)" style="max-width:30%;height:auto;" />
+		<img src="{{ '/assets/images/unnamed%20(4).jpg' | relative_url }}" alt="unnamed (4)" style="max-width:30%;height:auto;" />
+		<img src="{{ '/assets/images/unnamed%20(5).jpg' | relative_url }}" alt="unnamed (5)" style="max-width:30%;height:auto;" />
+	</div>
+</div>
+

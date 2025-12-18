@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24in" height="24in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 24000 24000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:6.94;stroke-miterlimit:2.61313}
+    .str0 {stroke:#373435;stroke-width:3;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="7634.36" cy="16115.63" r="7500"/>
+  <rect class="fil0 str0" x="15918.01" y="1573.16" width="1500" height="22000"/>
+  <rect class="fil0 str0" x="17951.35" y="1606.49" width="1500" height="22000"/>
+  <rect class="fil0 str0" x="20318.01" y="1573.16" width="1500" height="22000"/>
+  <rect class="fil0 str0" x="22251.35" y="1506.49" width="1500" height="22000"/>
+  <rect class="fil0 str1" x="251.32" y="1377.33" width="8000" height="3500"/>
+  <rect class="fil0 str1" x="10484.66" y="4777.33" width="1500" height="4000"/>
+  <rect class="fil0 str1" x="10401.33" y="244" width="1500" height="4000"/>
+  <rect class="fil0 str1" x="13151.33" y="244" width="1500" height="4000"/>
+  <rect class="fil0 str1" x="13167.99" y="4877.33" width="1500" height="4000"/>
+ </g>
+</svg>
