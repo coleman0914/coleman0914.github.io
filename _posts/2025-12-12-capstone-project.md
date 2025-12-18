@@ -124,3 +124,5 @@ One of the biggest decisions I’ve made is to focus on building the physical st
 Challenges/mistakes so far: 
 
 One of the biggest challenges for me was  just getting started on the design specs, because I’ve never had to plan something like this in such a detailed way before. It was hard to figure out what information actually mattered and what I was supposed to decide this early on. At first I kept second-guessing myself and putting it off because I didn’t want to get something “wrong.” Once I started breaking it down into smaller decisions, like just focusing on size and materials, it became way less overwhelming. Prototyping in cardboard helped a lot because it let me physically see the design instead of just imagining it. After that, everything now has started to feel more real and manageable, and now I feel way more confident moving forward with the project.
+
+This page will be updated as I continue to progress in the coming weeks and months. 
