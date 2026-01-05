@@ -12,12 +12,37 @@ A successful version of this project:
 It will function as a normal stool but also include a pressure sensor that detects when someone sits down. When pressure is applied, LED lights embedded in the stool will turn on, creating a visual response to the user. The electronics will be hidden underneath the stool so the design looks clean and intentional, with only the light visible. If completed successfully, the stool will be sturdy, visually appealing, and reliably respond to pressure.
 
 Attribution of project serving as inspiration (author/maker and source):
+Attribution of project serving as inspiration (author/maker and source):
 
-This project is inspired by my desire to make something physical but also something that includes creativity. My work onm tinkercad with electronics also gave me some input on how I will handle the electronics. The stool itself and the idea was derived from instructables and then after seeing the stool idea I watched a tutorial on youtube- then from there the idea was solidified. Tinkercad helped me understand how how LEDs are wired, and how Arduino code can be used to trigger outputs based on sensor input. Our use of the lab materials inspired me to do the physical component- this was from the pen project. 
+This project is inspired by me searching on youtube for electronic ideas and sources that could be interesting to make into a final project that is also doable. Descriptions of the youtube videos are below and these include some of my inspirations for the electronic portions. For the wood portions some of the videos are also below, because I knew I wanted to include some woodworking so I looked for videos on that.
 
-Description of how project is different than the source:
+Sources:
 
-Unlike many existing projects that focus only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused.
+<div class="video-sources">
+	<h3>How to Use a Force Sensor with an Arduino (Lesson #23)</h3>
+	<div class="video-embed">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/r7oWtcE6QQc" title="How to Use a Force Sensor with an Arduino (Lesson #23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<p><a href="https://www.youtube.com/watch?v=r7oWtcE6QQc">Watch on YouTube</a></p>
+	</div>
+
+	<h3>Force Pressure Sensor with Arduino LED Indicator</h3>
+	<div class="video-embed">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/ZlXglJ1keIc" title="Force Pressure Sensor with Arduino LED Indicator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<p><a href="https://www.youtube.com/watch?v=ZlXglJ1keIc">Watch on YouTube</a></p>
+	</div>
+
+	<h3>Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas</h3>
+	<div class="video-embed">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/GsAb9DXlk-4" title="Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<p><a href="https://www.youtube.com/watch?v=GsAb9DXlk-4">Watch on YouTube</a></p>
+	</div>
+</div>
+
+Description of how project is different than these sources that I got my inspiration from:
+
+Unlike the electronics focused videos only or the woodworking focused video that focuses only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused than the videos that only include one small portion of engineering that I watched to get inspiration for my own project.
+
+
 
 Design Specification Considerations
 When designing my stool, I considered:
