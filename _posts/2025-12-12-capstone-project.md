@@ -35,7 +35,7 @@ Unlike the electronics focused videos only or the woodworking video that focuses
 
 Design Specification Considerations
 
-When figuring this portion out I relied heavily on my design document that I completed in the beginning of the year, eg: the material choice, testing what dimensions would be the most adequate based on my weight/average weight. 
+When figuring this portion out I relied heavily on my design document that I completed in the beginning of the year, eg: the material choice, testing what dimensions would be the most adequate based on my weight/average weight. This part is new- in reference to my design specifications doc
 
 When designing my stool, I considered:
 
@@ -139,7 +139,7 @@ Journaling portion:{% for post in site.posts %}
 {% endfor %}
 
 
-**Workflow & Photos**
+**Workflow & Photos**- for the journaling portion where the links did not previously work 
 
 I created a milling workflow and documented the process on October 30th. Below are direct links to the Google Docs for the workflow and the photos. If the docs are not publicly shared, publish them or enable "Anyone with the link can view" in Google Drive so Jekyll visitors can access them.
 
