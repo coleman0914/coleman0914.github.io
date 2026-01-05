@@ -141,12 +141,12 @@ Journaling portion:{% for post in site.posts %}
 
 **Workflow & Photos**- for the journaling portion where the links did not previously work 
 
-I created a milling workflow and documented the process on October 30th. Below are direct links to the Google Docs for the workflow and the photos. If the docs are not publicly shared, publish them or enable "Anyone with the link can view" in Google Drive so Jekyll visitors can access them.
+I created a milling workflow and documented the process on October 30th. Below are direct links to the Google Docs for the workflow and the photos. 
 
 - Workflow (Google Doc): [Milling workflow — Google Doc](https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit)
-- Photos (Google Doc): [Process photos — Google Doc](https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit)
+- Photos (Google Doc): [Another workflow — Google Doc](https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit)
 
-If you want the links to open in a new tab, use this HTML fallback (Jekyll accepts raw HTML):
+
 
 <a href="https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit" target="_blank" rel="noopener">Milling workflow (open in new tab)</a>
 <br />
