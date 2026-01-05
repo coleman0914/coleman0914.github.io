@@ -130,7 +130,7 @@ Journaling portion:{% for post in site.posts %}
   {% if post.path == "_posts/2025-12-18-2025-post-journaling.md" %}
 		<section class="embedded-journal">
 			<h2>{{ post.title }}</h2>
-			{{ post.output }}
+			{{ post.content }}
 		</section>
   {% endif %}
 {% endfor %}
