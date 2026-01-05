@@ -24,7 +24,22 @@ Sources:
 
 youtube video for woodworking: Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas
 
+These videos below are the links to the two electronics videos and 
+
 [YouTube](https://www.youtube.com/watch?v=r7oWtcE6QQc) [YouTube](https://www.youtube.com/watch?v=ZlXglJ1keIc) [YouTube](https://www.youtube.com/watch?v=GsAb9DXlk-4)
+
+**Workflow & Photos**
+
+I created a milling workflow and documented the process on October 30th. Below are direct links to the Google Docs for the workflow and the photos. If the docs are not publicly shared, publish them or enable "Anyone with the link can view" in Google Drive so Jekyll visitors can access them.
+
+- Workflow (Google Doc): [Milling workflow — Google Doc](https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit)
+- Photos (Google Doc): [Process photos — Google Doc](https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit)
+
+If you want the links to open in a new tab, use this HTML fallback (Jekyll accepts raw HTML):
+
+<a href="https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit" target="_blank" rel="noopener">Milling workflow (open in new tab)</a>
+<br />
+<a href="https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit" target="_blank" rel="noopener">Process photos (open in new tab)</a>
 
 Description of how project is different than these sources that I got my inspiration from:
 
@@ -134,6 +149,20 @@ Journaling portion:{% for post in site.posts %}
 		</section>
   {% endif %}
 {% endfor %}
+
+
+**Workflow & Photos**
+
+I created a milling workflow and documented the process on October 30th. Below are direct links to the Google Docs for the workflow and the photos. If the docs are not publicly shared, publish them or enable "Anyone with the link can view" in Google Drive so Jekyll visitors can access them.
+
+- Workflow (Google Doc): [Milling workflow — Google Doc](https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit)
+- Photos (Google Doc): [Process photos — Google Doc](https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit)
+
+If you want the links to open in a new tab, use this HTML fallback (Jekyll accepts raw HTML):
+
+<a href="https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit" target="_blank" rel="noopener">Milling workflow (open in new tab)</a>
+<br />
+<a href="https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit" target="_blank" rel="noopener">Process photos (open in new tab)</a>
 
 
 Important decisions and Why:
