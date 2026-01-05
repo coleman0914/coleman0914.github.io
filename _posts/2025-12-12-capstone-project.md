@@ -107,3 +107,5 @@ Journaling portion:{% for post in site.posts %}
     </section>
   {% endif %}
 {% endfor %}
+
+
