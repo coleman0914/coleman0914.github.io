@@ -31,6 +31,9 @@ Description of how project is different than these sources that I got my inspira
 Unlike the electronics focused videos only or the woodworking video that focuses only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused than the videos that only include one small portion of engineering that I watched to get inspiration for my own project. They jumpstarted my brain in terms of what I would like to do but combining many different aspects into one project is how what I will build differs from the source. 
 
 Design Specification Considerations
+
+When figuring this portion out I relied heavily on my design document that I completed in the beginning of the year, eg: the material choice, testing what dimensions would be the most adequate based on my weight/average weight. 
+
 When designing my stool, I considered:
 
 Size and scale so it can support a person safely(200+ lbs because that is what I weigh)
@@ -45,6 +48,10 @@ Ease of assembly and maintenance in case electronics need adjustment
 Visual simplicity, ensuring the LEDs enhance the design rather than distract from it
 
 These considerations have guided my physical design and they will guide my electronics layout when I complete it second semester.
+
+
+
+
 
 INSTRUCTIONS:
 
@@ -121,10 +128,10 @@ image explanation: obviously the cardboard is not a full representation of the s
 
 Journaling portion:{% for post in site.posts %}
   {% if post.path == "_posts/2025-12-18-2025-post-journaling.md" %}
-    <section class="embedded-journal">
-      <h2>{{ post.title }}</h2>
-      {{ post.content }}
-    </section>
+		<section class="embedded-journal">
+			<h2>{{ post.title }}</h2>
+			{{ post.output }}
+		</section>
   {% endif %}
 {% endfor %}
 
