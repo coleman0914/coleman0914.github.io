@@ -13,7 +13,18 @@ It will function as a normal stool but also include a pressure sensor that detec
 
 Attribution of project serving as inspiration (author/maker and source):
 
-This project is inspired by my desire to make something physical but also something that includes creativity. My work onm tinkercad with electronics also gave me some input on how I will handle the electronics. The stool itself and the idea was derived from instructables and then after seeing the stool idea I watched a tutorial on youtube- then from there the idea was solidified. Tinkercad helped me understand how how LEDs are wired, and how Arduino code can be used to trigger outputs based on sensor input. Our use of the lab materials inspired me to do the physical component- this was from the pen project. 
+This project is inspired by me searching on youtube for electronic ideas and sources that could be interesting to make into a final project that is also doable. Descriptions of the youtube videos are below and these include some of my inspirations for the electronic portions. For the wood portions some of the videos are also below, because I knew I wanted to include some woodworking so I looked for videos on that. 
+
+Sources:
+• How to Use a Force Sensor with an Arduino (Lesson #23) — YouTube tutorial on Force Sensitive Resistors and Arduino. 
+
+
+• Force Pressure Sensor with Arduino LED Indicator — YouTube project showing pressure sensor triggering LED. 
+
+youtube video for woodworking: Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas
+
+
+
 
 Description of how project is different than the source:
 
