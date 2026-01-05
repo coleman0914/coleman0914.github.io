@@ -28,7 +28,7 @@ youtube video for woodworking: Making A $3 bar stool from a 2x4 | woodworking | 
 
 Description of how project is different than these sources that I got my inspiration from:
 
-Unlike the electronics focused videos only or the woodworking focused video that focuses only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused than the videos that only include one small portion of engineering that I watched to get inspiration for my own project. 
+Unlike the electronics focused videos only or the woodworking video that focuses only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused than the videos that only include one small portion of engineering that I watched to get inspiration for my own project. They jumpstarted my brain in terms of what I would like to do but combining many different aspects into one project is how what I will build differs from the source. 
 
 Design Specification Considerations
 When designing my stool, I considered:
