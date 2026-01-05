@@ -11,7 +11,7 @@ permalink: /projects/pen-turning/
 published: true
 
 ---
-August 25 – September 12
+August 25 – September 12, 2025
 Pen & Box Project
  During this time, we constructed a pen and a wooden box. This process included selecting the wood, trimming it, cutting a hole, using the lathe (turner), gluing, and assembling the final pieces to complete the pen. I really enjoyed this project. However, I encountered a challenge: part of my wood broke off while I was turning it. I documented this issue, and fortunately, on the second attempt, everything went smoothly and I was able to successfully finish the pen. This is all being documented on september 19th because we completed the pen project before setting up github.
 steps:

@@ -12,39 +12,7 @@ A successful version of this project:
 It will function as a normal stool but also include a pressure sensor that detects when someone sits down. When pressure is applied, LED lights embedded in the stool will turn on, creating a visual response to the user. The electronics will be hidden underneath the stool so the design looks clean and intentional, with only the light visible. If completed successfully, the stool will be sturdy, visually appealing, and reliably respond to pressure.
 
 Attribution of project serving as inspiration (author/maker and source):
-Attribution of project serving as inspiration (author/maker and source):
 
-<<<<<<< HEAD
-This project is inspired by me searching on youtube for electronic ideas and sources that could be interesting to make into a final project that is also doable. Descriptions of the youtube videos are below and these include some of my inspirations for the electronic portions. For the wood portions some of the videos are also below, because I knew I wanted to include some woodworking so I looked for videos on that.
-
-Sources:
-
-<div class="video-sources">
-	<h3>How to Use a Force Sensor with an Arduino (Lesson #23)</h3>
-	<div class="video-embed">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/r7oWtcE6QQc" title="How to Use a Force Sensor with an Arduino (Lesson #23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<p><a href="https://www.youtube.com/watch?v=r7oWtcE6QQc">Watch on YouTube</a></p>
-	</div>
-
-	<h3>Force Pressure Sensor with Arduino LED Indicator</h3>
-	<div class="video-embed">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/ZlXglJ1keIc" title="Force Pressure Sensor with Arduino LED Indicator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<p><a href="https://www.youtube.com/watch?v=ZlXglJ1keIc">Watch on YouTube</a></p>
-	</div>
-
-	<h3>Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas</h3>
-	<div class="video-embed">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/GsAb9DXlk-4" title="Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<p><a href="https://www.youtube.com/watch?v=GsAb9DXlk-4">Watch on YouTube</a></p>
-	</div>
-</div>
-
-Description of how project is different than these sources that I got my inspiration from:
-
-Unlike the electronics focused videos only or the woodworking focused video that focuses only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused than the videos that only include one small portion of engineering that I watched to get inspiration for my own project.
-
-
-=======
 This project is inspired by me searching on youtube for electronic ideas and sources that could be interesting to make into a final project that is also doable. Descriptions of the youtube videos are below and these include some of my inspirations for the electronic portions. For the wood portions some of the videos are also below, because I knew I wanted to include some woodworking so I looked for videos on that. 
 
 Sources:
@@ -53,13 +21,14 @@ Sources:
 
 • Force Pressure Sensor with Arduino LED Indicator — YouTube project showing pressure sensor triggering LED. 
 
+
 youtube video for woodworking: Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas
 
+[YouTube](https://www.youtube.com/watch?v=r7oWtcE6QQc) [YouTube](https://www.youtube.com/watch?v=ZlXglJ1keIc) [YouTube](https://www.youtube.com/watch?v=GsAb9DXlk-4)
 
 Description of how project is different than these sources that I got my inspiration from:
 
 Unlike the electronics focused videos only or the woodworking focused video that focuses only on electronics or only on furniture design, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused than the videos that only include one small portion of engineering that I watched to get inspiration for my own project. 
->>>>>>> 05dd5e03a02bf8ae5161a7f48e38ef97e7970ca1
 
 Design Specification Considerations
 When designing my stool, I considered:
@@ -159,9 +128,7 @@ Journaling portion:{% for post in site.posts %}
   {% endif %}
 {% endfor %}
 
-<<<<<<< HEAD
 
-=======
 Important decisions and Why:
 
 One of the biggest decisions I’ve made is to focus on building the physical stool first, and  that just makes the most sense to me. I want to know that the stool actually works as a stool before I start worrying about lights and wires and code. Figuring out the size and leg length now helps me avoid changing things later and having to redo parts of the electronics. I also decided to prototype everything in cardboard first because it let me mess around with proportions without stressing about wasting wood. Another choice I made was hiding all the electronics underneath so the stool still looks clean and intentional and not like something with parts glued on. All of these decisions kind of work together and help keep the project feeling doable instead of overwhelming.
@@ -171,4 +138,3 @@ Challenges/mistakes so far:
 One of the biggest challenges for me was  just getting started on the design specs, because I’ve never had to plan something like this in such a detailed way before. It was hard to figure out what information actually mattered and what I was supposed to decide this early on. At first I kept second-guessing myself and putting it off because I didn’t want to get something “wrong.” Once I started breaking it down into smaller decisions, like just focusing on size and materials, it became way less overwhelming. Prototyping in cardboard helped a lot because it let me physically see the design instead of just imagining it. After that, everything now has started to feel more real and manageable, and now I feel way more confident moving forward with the project.
 
 This page will be updated as I continue to progress in the coming weeks and months. 
->>>>>>> 05dd5e03a02bf8ae5161a7f48e38ef97e7970ca1
