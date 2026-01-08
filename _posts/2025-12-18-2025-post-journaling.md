@@ -32,3 +32,5 @@ Dec 1- 8- this week we worked on electronics in tinkercad- Mr dubick said we don
 Dec 9- today I created my topography post for my jekyll- now my jekyll is fully up to date with pen-owl-topography and other projects. 
 Dec 11- 18 in these days
  I created my carboard prototype and got the dimensions down along with making sure the legs and base were both long enough. The images and description are seen above on images and files and under "image description" above. Besides that there has been lots of documentation including updating the topo post based on the rubric Mr. Dubick gave. 
+
+ Jan 5-9: This week I fixed my documentation errors which Mr. Dubick left feedback for on monday. this included adding some links from youtube and workflows to give more detail about the start of my project. On tuesday and wednesday I started on my task analysis to give me a good timeline for my project and made the outline on google docs- shared with Mr. Dubick. On Thursday and Friday I focused on ordering the necessary parts for my project, which included a Load cell, amplifer, and wood for the stool which I will assemble in a timely fashion from the task analysis I made. 
