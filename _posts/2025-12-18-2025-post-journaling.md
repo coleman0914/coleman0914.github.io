@@ -43,4 +43,4 @@ Week of Jan 12-16: this week the wood came and it was time to get working on the
 
 
 
-Week of Jan 20-23: this week I used the cnc machine to
+Tuesday Jan 20: Today I got the stool design laid out in Fusion 360, making the circle base and leg shapes. While I was working, I realized I could just draw the whole thing directly in Aspire instead. That should make creating the toolpaths a lot faster and simpler. Tomorrow I’ll focus on setting up and calculating the toolpaths so it’s ready to cut.
