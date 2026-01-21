@@ -44,3 +44,5 @@ Week of Jan 12-16: this week the wood came and it was time to get working on the
 
 
 Tuesday Jan 20: Today I got the stool design laid out in Fusion 360, making the circle base and leg shapes. While I was working, I realized I could just draw the whole thing directly in Aspire instead. That should make creating the toolpaths a lot faster and simpler. Tomorrow I’ll focus on setting up and calculating the toolpaths so it’s ready to cut.
+
+Wed Jan 21: today I made some a toolpath in aspire for my wood cut. This involved getting the tools, moving the wood around so I would not waste any wood, and getting the 3/8th compression bit. it took a while to get the tool to work and Mrs. Morrow helped me get the right now. I calculated the toolpath and tomorrow I will have to research how I will connect the joints. 
