@@ -191,4 +191,4 @@ When continuing this project, I would focus on remaking the stool and getting a 
 
 ---
 
-**This page will be updated as the project continues to progress.**
+This page will be updated as the project continues to progress.
