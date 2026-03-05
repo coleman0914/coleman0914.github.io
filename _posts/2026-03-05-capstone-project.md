@@ -228,7 +228,7 @@ The final assembly brings together the wooden furniture structure with integrate
 
 One of the biggest decisions I made was to focus on building the physical stool first. This just made the most sense to me. I wanted to know that the stool actually works as a stool before I started worrying about lights, wires, and code. Figuring out the size and leg length early helped me avoid having to redo parts of the electronics later.
 
-I also decided to prototype everything in cardboard first because it let me experiment with proportions without wasting wood. This was crucial for understanding the spatial constraints for electronics placement. Another key choice was hiding all the electronics underneath so the stool still looks clean and intentional, not like something with parts glued on.
+I also decided to prototype everything in cardboard first because it let me experiment with proportions without wasting wood. This was crucial for understanding the spatial constraints for electronics placement. Another key choice was hiding all the electronics underneath so the stool still looks clean and intentional.
 
 All of these decisions worked together and helped keep the project feeling doable instead of overwhelming.
 
