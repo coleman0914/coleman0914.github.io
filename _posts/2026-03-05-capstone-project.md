@@ -3,7 +3,7 @@ title: Capstone Project - The Smart Stool
 layout: post
 ---
 
-# RESEARCH
+Capstone Project Documentation
 
 ## Description of final project choice, why chosen, and what a successful project would do:
 
