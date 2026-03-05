@@ -189,6 +189,7 @@ What I learned most was that success in a capstone project depends on managing c
 
 When continuing this project, I would focus on remaking the stool and getting a new LED strip, with a specific concern for the stability of the legs of the stool. I will remake the legs with joints or dominos which will allow the legs to be more stable. Also, I plan on switching out the LED strips, as I would prefer all 144 to turn on instead of the first 30 when I sit down on this stool. Lastly, I would paint the entire stool and maybe use a wood finish to give it that smooth feel which I do not have right now.
 
----
 
 This page will be updated as the project continues to progress.
+
+---
