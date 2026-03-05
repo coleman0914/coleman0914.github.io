@@ -20,6 +20,8 @@ Sources:
 - Force Pressure Sensor with Arduino LED Indicator
 - Making A $3 bar stool from a 2x4 | woodworking | diy gift ideas
 
+[YouTube - Force Sensor Tutorial](https://www.youtube.com/watch?v=r7oWtcE6QQc) | [YouTube - Pressure LED Project](https://www.youtube.com/watch?v=ZlXglJ1keIc) | [YouTube - DIY Bar Stool](https://www.youtube.com/watch?v=GsAb9DXlk-4)
+
 ## Description of how project is different than these sources:
 
 Unlike the electronics-focused videos or woodworking videos that address only one aspect, my project combines building furniture with embedded electronics. Instead of attaching LEDs externally or making a small prototype, I am building a full-size stool with electronics fully hidden inside. I also designed my own stool dimensions and structure rather than copying an existing furniture plan. This makes my project more personalized and fabrication-focused than the individual sources that inspired it.
@@ -77,14 +79,77 @@ The project includes:
 - **Design specifications document** - detailing dimensions, material choices, and assembly procedures
 - **Detailed photos** - documenting the fabrication process, component testing, and final assembly
 
+<a href="https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit" target="_blank" rel="noopener">Milling workflow (open in new tab)</a> | <a href="https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit" target="_blank" rel="noopener">Process photos (open in new tab)</a>
+
 ## Detailed photos and videos
 
-The fabrication and assembly process has been thoroughly documented with photos showing:
-- Component layout and testing setup
-- CNC machine operation and cutting process
-- Electronics integration and wire routing
-- Load cell calibration and LED responsiveness testing
-- Final assembled smart stool with integrated electronics
+### Electronics Testing & Component Integration
+
+The electronics setup showcases the Keyestudio microcontroller, load cell sensor integration, and RGB LED control system. Below are images documenting the testing and calibration process:
+
+<div class="image-gallery" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+  <figure>
+    <img src="{{ '/assets/images/electronics-setup-1.jpg' | relative_url }}" alt="Keyestudio microcontroller with load cell and RGB LED setup" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Keyestudio board connected to load cell sensor, power supply, and breadboards for component organization</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/assets/images/rgb-led-test-1.jpg' | relative_url }}" alt="RGB LED strip color testing with weight sensor" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">RGB LED strip displaying full color spectrum during calibration testing with digital scale</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/assets/images/rgb-led-test-2.jpg' | relative_url }}" alt="Rainbow color gradient on addressable LED strip" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Addressable RGB LED strip showing smooth color gradient and responsiveness to control signals</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/assets/images/electronics-assembly-workspace.jpg' | relative_url }}" alt="Electronics components and materials organized on workbench" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Complete component inventory including microcontroller, sensor modules, breadboards, and wiring</figcaption>
+  </figure>
+</div>
+
+### CNC Fabrication & Design Process
+
+The CNC fabrication process involved designing precise cutting patterns in CAD software, then using the CNC router to cut wooden components with exact tolerances. Below are images showing the design and fabrication workflow:
+
+<div class="image-gallery" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+  <figure>
+    <img src="{{ '/assets/images/cnc-machine-setup.jpg' | relative_url }}" alt="CNC router machine with wooden base loaded" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Industrial CNC router positioned to cut wooden stool base and legs with precision</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/assets/images/cnc-cutting-process.jpg' | relative_url }}" alt="CNC machine in operation cutting the base design" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">CNC router executing cut patterns on wooden material with compressed bit tool</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/assets/images/cad-design-vectric.jpg' | relative_url }}" alt="CAD design file in Vectric Aspire software" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Vector design in Vectric Aspire showing circular base pattern and rectangular leg components</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/assets/images/design-blueprint.jpg' | relative_url }}" alt="Detailed design blueprint with dimensions" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Design specifications documenting exact dimensions and component layout for fabrication</figcaption>
+  </figure>
+</div>
+
+### Final Assembly & Completed Smart Stool
+
+The final assembly brings together the wooden furniture structure with integrated electronics. Below are images showing the completed stool and component assembly process:
+
+<div class="image-gallery" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+  <figure>
+    <img src="{{ '/assets/images/stool-completed.jpg' | relative_url }}" alt="Finished smart stool with orange seat and wooden legs" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Completed smart stool with orange seat top, decorative beaded trim, and integrated electronics hidden underneath</figcaption>
+  </figure>
+
+  <figure>
+    <img src="{{ '/assets/images/electronics-assembly-detail.jpg' | relative_url }}" alt="Electronics during assembly showing wire connections and board layout" style="width:100%; height:auto; border-radius: 8px;">
+    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Electronics assembly process showing Keyestudio board, load cell connections, and power routing configuration</figcaption>
+  </figure>
+</div>
 
 ---
 
@@ -104,7 +169,7 @@ All of these decisions worked together and helped keep the project feeling doabl
 Initially, the load cell sensor wasn't reading accurately. I discovered the HX711 amplifier pins weren't properly connected to the Arduino. I physically secured the board to the breadboard using wire bridges, which resolved the electrical gap issue.
 
 **Challenge 2: LED Brightness Control**
-The RGB LED strip stopped working at a certain pixel (#30). After investigation, I identified a dead pixel caused by a sharp bend in the data wire. I adjusted the wire routing to prevent sharp bends and now press that 30th led to power the rest of them. 
+The RGB LED strip stopped working at a certain pixel (#30). After investigation, I identified a dead pixel caused by a sharp bend in the data wire. I adjusted the wire routing to prevent sharp bends and now press that 30th LED to power the rest of them.
 
 **Challenge 3: Precision Fabrication**
 When testing the CNC cut files, I had to dial in the tolerance offset. I started at no offset (0"), then tested at -.1", and finally settled at -.05" to achieve a balance between sturdy assembly and easy insertion/removal of components.
@@ -116,13 +181,13 @@ The HX711 ADC converter was initially confusing—it translates analog weight si
 
 **The Smart Stool Project: Integration of Design and Electronics**
 
-The Smart Stool represents an integration of mechanical design, digital fabrication, and embedded electronics. Beginning with cardboard prototypes, I validated the dimensional requirements for a full-scale piece of furniture that could support a person's weight while concealing electronic components. The design evolved through consideration of material properties, and manufacturing constraints. By using CNC fabrication with precision-tested tool bits and offset tolerances, I produced wooden components that were structurally sound and aesthetically intentional.
+The Smart Stool represents an integration of mechanical design, digital fabrication, and embedded electronics. Beginning with cardboard prototypes, I validated the dimensional requirements for a full-scale piece of furniture that could support a person's weight while concealing electronic components. The design evolved through consideration of material properties and manufacturing constraints. By using CNC fabrication with precision-tested tool bits and offset tolerances, I produced wooden components that were structurally sound and aesthetically intentional.
 
-The electronics portion required engagement with microcontroller programming and sensor integration. The load cell sensor measures weight in analog signals, which the HX711 amplifier converts to digital data at high resolution. The Arduino code implements a calibration routine on startup and applies sensitivity filtering to distinguish between intentional weight (someone sitting) and environmental noise, which is why I sent the sensitivity to 80. This work exposed me to the full pipeline of embedded systems: sensor selection, signal conditioning, processing logic, and output control (the RGB LED).
+The electronics portion required engagement with microcontroller programming and sensor integration. The load cell sensor measures weight in analog signals, which the HX711 amplifier converts to digital data at high resolution. The Arduino code implements a calibration routine on startup and applies sensitivity filtering to distinguish between intentional weight (someone sitting) and environmental noise, which is why I set the sensitivity to 80. This work exposed me to the full pipeline of embedded systems: sensor selection, signal conditioning, processing logic, and output control (the RGB LED).
 
-What I learned most profoundly was that success in a capstone project depends on managing complexity through different phases development, and being okay with the fact that messing up during certain steps is a lesson rather than failure. Rather than trying to build everything at once, I broke the work into stages: prototype validation, fabrication preparation, component testing, and final integration. This approach made the project feel manageable and allowed me to catch and fix problems one at a time instead of trying to juggle everything. I also learned the importance of documentation and iterative testing: every challenge I faced (sensor calibration, LED brightness, fabrication tolerance) had a solution waiting in careful observation and systematic adjustment.
+What I learned most profoundly was that success in a capstone project depends on managing complexity through different phases of development, and being okay with the fact that messing up during certain steps is a lesson rather than failure. Rather than trying to build everything at once, I broke the work into stages: prototype validation, fabrication preparation, component testing, and final integration. This approach made the project feel manageable and allowed me to catch and fix problems one at a time instead of trying to juggle everything. I also learned the importance of documentation and iterative testing: every challenge I faced (sensor calibration, LED brightness, fabrication tolerance) had a solution waiting in careful observation and systematic adjustment.
 
-When continuing this project, I would focus on remaking the stool and getting a new led strip, with a specific concern for the stability of the legs of the stool. I will remake the legs with joints or dominos which will allow the legs to be more stable. Also, I plan on switching out the LED strips, as I would prefer all 144 to turn on instead of the first 30 when I sit down on this stool. Lastly, I would paint the entire stool and maybe use a wood finish to give it that smooth feel which I do not have right now.
+When continuing this project, I would focus on remaking the stool and getting a new LED strip, with a specific concern for the stability of the legs of the stool. I will remake the legs with joints or dominos which will allow the legs to be more stable. Also, I plan on switching out the LED strips, as I would prefer all 144 to turn on instead of the first 30 when I sit down on this stool. Lastly, I would paint the entire stool and maybe use a wood finish to give it that smooth feel which I do not have right now.
 
 ---
 
