@@ -178,9 +178,13 @@ IMG_0990 (stool completed): The final image showcases the completed stool, showi
 
 
 
+
 ---
 
 # DOCUMENTATION OF LEARNING
+
+## Journaling Over the Year:
+
 
 ## Important decisions and Why:
 
