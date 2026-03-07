@@ -154,42 +154,29 @@ void loop() {
 
 ## Electronics Testing & Component Integration
 
-![IMG_0843](assets/IMG_0843.jpeg)
-*Description for IMG_0843.*
+1. Electronics Setup This shows my Keyestudio microcontroller board mounted on a breadboard with the HX711 amplifier connected via wire bridges. All the RGB LED power connections and data lines are organized neatly, showing the complete electronics layout before everything got integrated into the stool.
+   ![Electronics Setup](/assets/IMG_0843.jpeg)
 
-![IMG_0852](assets/IMG_0852.jpeg)
-*Description for IMG_0852.*
+3. RGB LED Test 1 During testing, the addressable LED strip lit up in its full color spectrum while I used a digital scale to verify the load cell was reading weight accurately. It was awesome seeing all 140 LEDs respond correctly to different weights and confirm the code was working as intended.
+   ![RGB LED Test 1](/assets/IMG_0852.jpeg)
 
-![IMG_0864](assets/IMG_0864.jpg)
-*Description for IMG_0864.*
+5. RGB LED Test 2 The LED strip displays a smooth rainbow gradient, showing how the FastLED library creates those responsive color animations. You can see the sensitivity calibration working—the LEDs only turn on when weight exceeds the 80-unit threshold, which filters out random vibrations perfectly.
+![RGB LED Test 2](/assets/IMG_0864.jpg)
 
-![IMG_0865](assets/IMG_0865.jpeg)
-*Description for IMG_0865.*
+7. Electronics Assembly Workspace Here's all my components laid out and organized: the Keyestudio board, HX711 amplifier, resistors, breadboards, and the 140-LED strip. This was my complete electronics inventory before I hid everything underneath the stool for a clean look.![Electronics Assembly Workspace](/assets/IMG_0865.jpeg)
 
-![IMG_0867](assets/IMG_0867.jpeg)
-*Description for IMG_0867.*
+8. CNC Machine Setup The CNC router is positioned and ready to cut the main circular base of the stool using a 3/8" compression bit. This setup shows the precision approach I took to ensure all the wooden pieces would fit together perfectly with exact tolerances.![CNC Machine Setup](/assets/IMG_0867.jpeg)
 
-## CNC Fabrication & Design Process
+9. CNC Cutting Process The CNC router is mid-operation, cutting the wooden material and creating smooth edges with precise geometry. You can see the wood dust flying as the tool transforms my CAD design into actual physical stool components.![CNC Cutting Process](/assets/IMG_0961-2.jpeg)
 
-![IMG_0961-2](assets/IMG_0961-2.jpeg)
-*Description for IMG_0961-2.*
+10. CAD Design Vectric This is the Vectric Aspire software showing my vector design with the circular base pattern (22.5 inch diameter) and rectangular leg layouts. The design shows all the tool paths and offset tolerances I calculated to get perfect fabrication results.![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
 
-![IMG_0962-2](assets/IMG_0962-2.jpeg)
-*Description for IMG_0962-2.*
+11. Design Blueprint My design specifications document with exact measurements for the stool's structure, including the base radius, leg heights, and component placement. This served as my reference guide for both the CNC fabrication and planning where to hide the electronics underneath. ![Design Blueprint](/assets/IMG_0970.jpeg)
 
-![IMG_0970](assets/IMG_0970.jpeg)
-*Description for IMG_0970.*
+    12.  Electronics Assembly Detail This shows the Keyestudio board mounted with the load cell sensor connected through carefully routed wires and the LED data line protected from sharp bends. Everything fits together in the stool's undercarriage without getting in the way of the structure. ![Electronics Assembly Detail](/assets/IMG_0976.jpeg)
 
-![IMG_0975](assets/IMG_0975.jpeg)
-*Description for IMG_0975.*
+13. Stool Completed The finished smart stool with its vibrant orange padded seat and decorative beaded trim looks really clean. All the electronics are hidden underneath, so you'd never know it has RGB LEDs that light up when you sit down.![Stool Completed](/assets/IMG_0975.jpeg)
 
-![IMG_0976](assets/IMG_0976.jpeg)
-*Description for IMG_0976.*
-
-## Final Assembly & Completed Smart Stool
-
-![IMG_0843](assets/IMG_0843.jpeg)
-*Final assembly image showcasing the completed smart stool.*
 
 ---
 
