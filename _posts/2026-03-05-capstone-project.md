@@ -154,19 +154,19 @@ void loop() {
 
 ## Electronics Testing & Component Integration
 
-IMG_0843 (Aspire design): This image showcases the initial design created using Aspire software, laying the groundwork for the stool's intricate features. It embodies the fusion of artistic design and technical precision, illustrating how digital creativity is transformed into physical form.   ![Electronics Setup](/assets/IMG_0843.jpeg)
+IMG_0843 (Aspire design): This image shows the initial design created using Aspire software, laying the groundwork for the stool's features. It encapsulates the both artistic design and technical skills, and this was impressive for me as I had not dealt with aspire much in the past.  ![Electronics Setup](/assets/IMG_0843.jpeg)
 
-IMG_0852 (CNC cutting): Here, we see the CNC machine at work, cutting the stool's components from high-density materials. The use of CNC technology exemplifies the project's focus on accuracy, ensuring that every piece fits perfectly together for optimal functionality.![RGB LED Test 1](/assets/IMG_0852.jpeg)
+IMG_0852 (CNC cutting): Here, we see the CNC machine at work, cutting the stool's components from the wood. The use of CNC technology exemplifies the project's focus on accuracy, ensuring that every piece fits perfectly together for optimal functionality.![RGB LED Test 1](/assets/IMG_0852.jpeg)
 
-IMG_0864 (allowance offset): This picture highlights the careful measurement adjustments made during the machining process. By accounting for allowance offsets, we ensure that parts fit seamlessly, an essential aspect of combining design with hardware integration. ![RGB LED Test 2](/assets/IMG_0864.jpg)
+IMG_0864 (allowance offset): This picture highlights the  measurement adjustments made during the machining process. By accounting for allowance offsets, I ensured that parts fit seamlessly, an essential aspect of combining design with hardware integration. ![RGB LED Test 2](/assets/IMG_0864.jpg)
 
-IMG_0865 (Aspire on CNC): Captured in this image is the Aspire interface displaying the cutting pathway, essential for precision machining. The coordination between software and hardware emphasizes the importance of planning in our project. ![Electronics Assembly Workspace](/assets/IMG_0865.jpeg)
+IMG_0865 (Aspire on CNC): Captured in this image is the Aspire interface displaying the cutting pathway, essential for precision machining. The coordination between software and hardware emphasizes the importance of planning and precision in my project. ![Electronics Assembly Workspace](/assets/IMG_0865.jpeg)
 
-IMG_0867 (CNC in action): This action shot of the CNC machine illustrates the real-time implementation of designs. It showcases the smart manufacturing techniques that bring our interactive stool to life, merging technology with traditional craftsmanship.![CNC Machine Setup](/assets/IMG_0867.jpeg)
+IMG_0867 (CNC in action): This action shot of the CNC machine illustrates the real-time implementation of designs. It showcases the smart manufacturing techniques that bring this interactive stool to life, merging technology with different designs.![CNC Machine Setup](/assets/IMG_0867.jpeg)
 
-IMG_0961-2 (electronics assembly): The assembly of electronics is shown in this image, capturing the intricate wiring needed to enable the stool's pressure-responsive lighting. This integration is key to achieving our vision of a beautifully functional piece of furniture.![CNC Cutting Process](/assets/IMG_0961-2.jpeg)
+IMG_0961-2 (electronics assembly): The assembly of electronics is shown in this image, capturing the intricate wiring needed to enable the stool's pressure-responsive lighting. This integration is key to getting the Stool to work at its best.![CNC Cutting Process](/assets/IMG_0961-2.jpeg)
 
-IMG_0962-2 (electronics assembly): Another angle of the assembly process emphasizes the meticulous attention to detail involved. Each connection contributes to the broader aim of merging aesthetics with electronic functionality.![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
+IMG_0962-2 (electronics assembly): Another angle of the assembly process emphasizes the  attention to detail involved. Each connection contributes to the broader aim of me combining aesthetics with electronic functionality.![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
 
 IMG_0970 (stool upside down): This image exhibits the underside of the stool, revealing the electronic components carefully housed within. It symbolizes our project’s dual nature, offering both functionality and style.![Design Blueprint](/assets/IMG_0970.jpeg)
 
