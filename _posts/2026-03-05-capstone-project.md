@@ -221,25 +221,38 @@ The final assembly brings together the wooden furniture structure with integrate
 </div>
 
 
-All pictures: ![Electronics Setup](/assets/IMG_0843.jpeg)
+All pictures: 
 
+>This image shows the Keyestudio microcontroller board mounted on a breadboard with the HX711 load cell amplifier carefully connected via wire bridges to ensure proper signal transmission. The RGB LED strip power connections and data lines are organized alongside the sensor components, demonstrating the complete electronics assembly layout before integration into the stool.</figcaption>:
+![Electronics Setup](/assets/IMG_0843.jpeg)
+
+>During calibration testing, the addressable RGB LED strip displays its full color spectrum while a digital scale sits nearby to verify accurate weight readings from the load cell. This test phase confirmed that the LED control code properly responds to different weight values and that all 140 LEDs can be independently addressed.</figcaption>:
 ![RGB LED Test 1](/assets/IMG_0852.jpeg)
 
+>The addressable RGB LED strip demonstrates smooth color transitions in a rainbow gradient pattern, showing how the FastLED library's fill_rainbow() function creates responsive, visually appealing animations. This image captures the sensitivity calibration working correctly, with the LEDs only activating when weight exceeds the 80-unit threshold.</figcaption>:
 ![RGB LED Test 2](/assets/IMG_0864.jpg)
 
+>The complete component inventory is laid out for inspection, including the Keyestudio microcontroller, HX711 amplifier module, resistors, breadboards, and the 140-LED addressable strip. This organized workbench setup shows all the electronic elements that were later integrated into the stool's undercarriage for a clean, hidden installation.</figcaption>:
 ![Electronics Assembly Workspace](/assets/IMG_0865.jpeg)
 
+The industrial CNC router is positioned and ready to cut the main circular base of the stool with a 3/8" compression bit, which provides clean cuts on both the top and bottom surfaces of the wood. This setup demonstrates the precision fabrication approach that ensures exact tolerances for all wooden components.</figcaption>:
 ![CNC Machine Setup](/assets/IMG_0867.jpeg)
 
+>Captured mid-operation, the CNC router executes the cutting patterns on the wooden material with the compressed bit tool creating smooth edges and precise geometry. The visible dust and tool movement show the active fabrication process that transforms the CAD design file into physical wooden stool components.</figcaption>:
 ![CNC Cutting Process](/assets/IMG_0961-2.jpeg)
 
+>The Vectric Aspire software interface displays the vector design with the circular base pattern (22.5 inch diameter) and rectangular leg component layouts precisely dimensioned for CNC cutting. This digital design shows the complete stool structure with marked tool paths and offset tolerances calibrated for optimal fabrication results.</figcaption>:
 ![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
 
+This comprehensive design specifications document contains exact measurements for the stool's structural components, including the 22.5-inch base radius, 18-20 inch leg heights, and component placement locations. The blueprint serves as the reference documentation for both the CNC fabrication process and the electronics installation layout underneath the stool.</figcaption>:
 ![Design Blueprint](/assets/IMG_0970.jpeg)
 
+The completed smart stool features a vibrant orange padded seat top with decorative beaded trim that adds visual appeal while the wooden legs provide sturdy structural support. All electronics are concealed underneath the base, maintaining a clean aesthetic while the pressure-responsive LED system is ready to activate when someone sits down.</figcaption>:
 ![Stool Completed](/assets/IMG_0975.jpeg)
 
+Electronics assembly process showing Keyestudio board, load cell connections, and power routing configuration</figcaption>:
 ![Electronics Assembly Detail](/assets/IMG_0976.jpeg)
+
 
 
 all images with decription: <!-- IMG_0843.jpeg - Keyestudio Microcontroller with Load Cell and RGB LED Setup -->
