@@ -174,7 +174,7 @@ IMG_0976 (all 144 LEDs): Here, the full array of LEDs is displayed, illustrating
 
 IMG_0975 (30 LEDs): This detail shot captures a section of the LEDs in action, showcasing the bright lights they bring.[LEDs](/assets/IMG_0975.jpeg)
 
-IMG_0990 (stool completed): The final image showcases the completed stool, showing all elements of design and technology. This shows my effort in creating a functional, interactive stool.[Stool Complete](assets/IMG_0990.jpeg)
+IMG_0990 (stool completed): The final image showcases the completed stool, showing all elements of design and technology. This shows my effort in creating a functional, interactive stool.![Stool Complete](/assets/IMG_0990.jpeg)
 
 
 
