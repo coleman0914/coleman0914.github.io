@@ -214,20 +214,27 @@ Dec 9- today I created my topography post for my jekyll- now my jekyll is fully 
 
 January 6–17
 I began the wood portion of my capstone stool project. I designed the base in Aspire, focusing on creating clean geometry and adding dogbone fillets to the internal corners so the CNC machine could cut the joints properly. Since CNC bits are round, the dogbones help prevent tight square corners that the tool can’t reach. I ran several test cuts to figure out the right feeds and speeds and to make sure my toolpaths worked without errors. During this process I had to revise the design a few times because some of the fillets were not sized correctly. It helped me understand how important it is to account for the actual radius of the cutting tool when designing parts.
+
 January 20–24
 This week I continued refining the design based on the results from my test cuts. Some of the dogbone fillets were too large and created small gaps in the joints, so I adjusted their size and placement. I also fine-tuned the CNC toolpaths and ran more test pieces to confirm the changes. After a few iterations I finally produced a clean test cut that fit together correctly, which meant the design was ready to be cut from the final material. This stage really showed how much precision matters at every step of the process.
+
 January 27–31
 I cut the final wooden pieces for the stool base using the CNC machine. Because of the earlier testing, the cuts came out clean and accurate. Afterward I started assembling the base and test-fitted all the pieces together to make sure everything aligned properly before gluing them permanently.
+
 February 3–7
 I shifted my focus to the electronics portion of the project. I designed a circuit in Tinkercad that would read input from a pressure sensor and control an LED ring. During this process I learned about concepts like pull-up resistors and debouncing, as well as how to properly connect sensors to a microcontroller. I built the circuit on a breadboard first so I could test everything before making a permanent version.
+
 February 10–14
 Once the breadboard circuit was working, I soldered the components onto a prototype circuit board. This created a more stable and permanent setup. I tested all of the connections and debugged problems as they appeared. Eventually I got the pressure sensor responding correctly and the LEDs lighting up based on the input. I also spent time programming the Arduino to create different lighting patterns that would activate when someone sat on the stool.
+
 February 17–21
 This week I integrated the electronics with the wooden base. I mounted the pressure sensor underneath the stool so it could detect when someone sat down, and I installed the LED ring around the outer edge. When I tested the system, everything mostly worked, but I had to troubleshoot a few issues with the sensor placement and adjust the sensitivity so it would trigger reliably.
+
 February 24–28
 I focused on improving the sensor calibration and refining the programming. I tested the stool multiple times with different people sitting on it to make sure the activation was consistent. After a few adjustments to the code and LED brightness, the system worked smoothly and the stool functioned the way I intended.
+
 March 1–5
-I finished the project by taking documentation photos of the completed stool, showing both the wooden construction and the electronics in action. I also updated my Jekyll blog with a detailed post about the capstone project, including photos from the design phase, CNC testing, and the final result. In the post I explained some of the challenges I ran into, especially with the dogbone fillets and the sensor calibration, and how I worked through them
+I finished the project by taking documentation photos of the completed stool, showing both the wooden construction and the electronics in action. I also updated my Jekyll blog with a detailed post about the capstone project, including photos from the design phase, CNC testing, and the final result. In the post I explained some of the challenges I ran into, especially with the dogbone fillets and the sensor calibration, and how I worked through them.
 
 
 
