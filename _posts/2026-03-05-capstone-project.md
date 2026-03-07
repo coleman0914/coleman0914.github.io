@@ -81,33 +81,7 @@ The project includes:
 
 <a href="https://docs.google.com/document/d/1CaDUQ4LmfPJc6pKK6p19hoUctoCXxTt6e9c5fYZ9dEQ/edit" target="_blank" rel="noopener">Milling workflow (open in new tab)</a> | <a href="https://docs.google.com/document/d/1Hm03u70SZn6hg4F6Bugsz9wwq4C9IR7cGyQyIbE5Zmo/edit" target="_blank" rel="noopener">Process photos (open in new tab)</a>
 
-## Detailed photos and videos
 
-### Electronics Testing & Component Integration
-
-The electronics setup showcases the Keyestudio microcontroller, load cell sensor integration, and RGB LED control system. Below are images documenting the testing and calibration process:
-
-<div class="image-gallery" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
-  <figure>
-    <img src="{{ '/assets/electronics-setup-1.jpg' | relative_url }}" alt="Keyestudio microcontroller with load cell and RGB LED setup" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Keyestudio board connected to load cell sensor, power supply, and breadboards for component organization</figcaption>
-  </figure>
-
-  <figure>
-    <img src="{{ '/assets/rgb-led-test-1.jpg' | relative_url }}" alt="RGB LED strip color testing with weight sensor" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">RGB LED strip displaying full color spectrum during calibration testing with digital scale</figcaption>
-  </figure>
-
-  <figure>
-    <img src="{{ '/assets/rgb-led-test-2.jpg' | relative_url }}" alt="Rainbow color gradient on addressable LED strip" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Addressable RGB LED strip showing smooth color gradient and responsiveness to control signals</figcaption>
-  </figure>
-
-  <figure>
-    <img src="{{ '/assets/electronics-assembly-workspace.jpg' | relative_url }}" alt="Electronics components and materials organized on workbench" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Complete component inventory including microcontroller, sensor modules, breadboards, and wiring</figcaption>
-  </figure>
-</div>
 
 ### Code Integration: 
 
@@ -178,146 +152,44 @@ void loop() {
 }
 
 
-### CNC Fabrication & Design Process
+## Electronics Testing & Component Integration
 
-The CNC fabrication process involved designing precise cutting patterns in CAD software, then using the CNC router to cut wooden components with exact tolerances. Below are images showing the design and fabrication workflow:
+![IMG_0843](assets/IMG_0843.jpeg)
+*Description for IMG_0843.*
 
-<div class="image-gallery" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
-  <figure>
-    <img src="{{ '/assets/cnc-machine-setup.jpg' | relative_url }}" alt="CNC router machine with wooden base loaded" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Industrial CNC router positioned to cut wooden stool base and legs with precision</figcaption>
-  </figure>
+![IMG_0852](assets/IMG_0852.jpeg)
+*Description for IMG_0852.*
 
-  <figure>
-    <img src="{{ '/assets/cnc-cutting-process.jpg' | relative_url }}" alt="CNC machine in operation cutting the base design" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">CNC router executing cut patterns on wooden material with compressed bit tool</figcaption>
-  </figure>
+![IMG_0864](assets/IMG_0864.jpg)
+*Description for IMG_0864.*
 
-  <figure>
-    <img src="{{ '/assets/cad-design-vectric.jpg' | relative_url }}" alt="CAD design file in Vectric Aspire software" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Vector design in Vectric Aspire showing circular base pattern and rectangular leg components</figcaption>
-  </figure>
+![IMG_0865](assets/IMG_0865.jpeg)
+*Description for IMG_0865.*
 
-  <figure>
-    <img src="{{ '/assets/design-blueprint.jpg' | relative_url }}" alt="Detailed design blueprint with dimensions" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Design specifications documenting exact dimensions and component layout for fabrication</figcaption>
-  </figure>
-</div>
+![IMG_0867](assets/IMG_0867.jpeg)
+*Description for IMG_0867.*
 
-### Final Assembly & Completed Smart Stool
+## CNC Fabrication & Design Process
 
-The final assembly brings together the wooden furniture structure with integrated electronics. Below are images showing the completed stool and component assembly process:
+![IMG_0961-2](assets/IMG_0961-2.jpeg)
+*Description for IMG_0961-2.*
 
-<div class="image-gallery" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
-  <figure>
-    <img src="{{ '/assets/stool-completed.jpg' | relative_url }}" alt="Finished smart stool with orange seat and wooden legs" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Completed smart stool with orange seat top, decorative beaded trim, and integrated electronics hidden underneath</figcaption>
-  </figure>
+![IMG_0962-2](assets/IMG_0962-2.jpeg)
+*Description for IMG_0962-2.*
 
-  <figure>
-    <img src="{{ '/assets/electronics-assembly-detail.jpg' | relative_url }}" alt="Electronics during assembly showing wire connections and board layout" style="width:100%; height:auto; border-radius: 8px;">
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Electronics assembly process showing Keyestudio board, load cell connections, and power routing configuration</figcaption>
-  </figure>
-</div>
+![IMG_0970](assets/IMG_0970.jpeg)
+*Description for IMG_0970.*
 
+![IMG_0975](assets/IMG_0975.jpeg)
+*Description for IMG_0975.*
 
-All pictures: 
+![IMG_0976](assets/IMG_0976.jpeg)
+*Description for IMG_0976.*
 
->This image shows the Keyestudio microcontroller board mounted on a breadboard with the HX711 load cell amplifier carefully connected via wire bridges to ensure proper signal transmission. The RGB LED strip power connections and data lines are organized alongside the sensor components, demonstrating the complete electronics assembly layout before integration into the stool.</figcaption>:
-![Electronics Setup](/assets/IMG_0843.jpeg)
+## Final Assembly & Completed Smart Stool
 
->During calibration testing, the addressable RGB LED strip displays its full color spectrum while a digital scale sits nearby to verify accurate weight readings from the load cell. This test phase confirmed that the LED control code properly responds to different weight values and that all 140 LEDs can be independently addressed.</figcaption>:
-![RGB LED Test 1](/assets/IMG_0852.jpeg)
-
->The addressable RGB LED strip demonstrates smooth color transitions in a rainbow gradient pattern, showing how the FastLED library's fill_rainbow() function creates responsive, visually appealing animations. This image captures the sensitivity calibration working correctly, with the LEDs only activating when weight exceeds the 80-unit threshold.</figcaption>:
-![RGB LED Test 2](/assets/IMG_0864.jpg)
-
->The complete component inventory is laid out for inspection, including the Keyestudio microcontroller, HX711 amplifier module, resistors, breadboards, and the 140-LED addressable strip. This organized workbench setup shows all the electronic elements that were later integrated into the stool's undercarriage for a clean, hidden installation.</figcaption>:
-![Electronics Assembly Workspace](/assets/IMG_0865.jpeg)
-
-The industrial CNC router is positioned and ready to cut the main circular base of the stool with a 3/8" compression bit, which provides clean cuts on both the top and bottom surfaces of the wood. This setup demonstrates the precision fabrication approach that ensures exact tolerances for all wooden components.</figcaption>:
-![CNC Machine Setup](/assets/IMG_0867.jpeg)
-
->Captured mid-operation, the CNC router executes the cutting patterns on the wooden material with the compressed bit tool creating smooth edges and precise geometry. The visible dust and tool movement show the active fabrication process that transforms the CAD design file into physical wooden stool components.</figcaption>:
-![CNC Cutting Process](/assets/IMG_0961-2.jpeg)
-
->The Vectric Aspire software interface displays the vector design with the circular base pattern (22.5 inch diameter) and rectangular leg component layouts precisely dimensioned for CNC cutting. This digital design shows the complete stool structure with marked tool paths and offset tolerances calibrated for optimal fabrication results.</figcaption>:
-![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
-
-This comprehensive design specifications document contains exact measurements for the stool's structural components, including the 22.5-inch base radius, 18-20 inch leg heights, and component placement locations. The blueprint serves as the reference documentation for both the CNC fabrication process and the electronics installation layout underneath the stool.</figcaption>:
-![Design Blueprint](/assets/IMG_0970.jpeg)
-
-The completed smart stool features a vibrant orange padded seat top with decorative beaded trim that adds visual appeal while the wooden legs provide sturdy structural support. All electronics are concealed underneath the base, maintaining a clean aesthetic while the pressure-responsive LED system is ready to activate when someone sits down.</figcaption>:
-![Stool Completed](/assets/IMG_0975.jpeg)
-
-Electronics assembly process showing Keyestudio board, load cell connections, and power routing configuration</figcaption>:
-![Electronics Assembly Detail](/assets/IMG_0976.jpeg)
-
-
-
-all images with decription: <!-- IMG_0843.jpeg - Keyestudio Microcontroller with Load Cell and RGB LED Setup -->
-<figure>
-  <img src="{{ '/assets/IMG_0843.jpeg' | relative_url }}" alt="Keyestudio microcontroller with load cell and RGB LED setup" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">This image shows the Keyestudio microcontroller board mounted on a breadboard with the HX711 load cell amplifier carefully connected via wire bridges to ensure proper signal transmission. The RGB LED strip power connections and data lines are organized alongside the sensor components, demonstrating the complete electronics assembly layout before integration into the stool.</figcaption>
-</figure>
-HTML
-<!-- IMG_0852.jpeg - RGB LED Strip Color Testing with Weight Sensor -->
-<figure>
-  <img src="{{ '/assets/IMG_0852.jpeg' | relative_url }}" alt="RGB LED strip color testing with weight sensor" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">During calibration testing, the addressable RGB LED strip displays its full color spectrum while a digital scale sits nearby to verify accurate weight readings from the load cell. This test phase confirmed that the LED control code properly responds to different weight values and that all 140 LEDs can be independently addressed.</figcaption>
-</figure>
-HTML
-<!-- IMG_0864.jpg - Rainbow Color Gradient on Addressable LED Strip -->
-<figure>
-  <img src="{{ '/assets/IMG_0864.jpg' | relative_url }}" alt="Rainbow color gradient on addressable LED strip" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">The addressable RGB LED strip demonstrates smooth color transitions in a rainbow gradient pattern, showing how the FastLED library's fill_rainbow() function creates responsive, visually appealing animations. This image captures the sensitivity calibration working correctly, with the LEDs only activating when weight exceeds the 80-unit threshold.</figcaption>
-</figure>
-HTML
-<!-- IMG_0865.jpeg - Electronics Components Organized on Workbench -->
-<figure>
-  <img src="{{ '/assets/IMG_0865.jpeg' | relative_url }}" alt="Electronics components and materials organized on workbench" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">The complete component inventory is laid out for inspection, including the Keyestudio microcontroller, HX711 amplifier module, resistors, breadboards, and the 140-LED addressable strip. This organized workbench setup shows all the electronic elements that were later integrated into the stool's undercarriage for a clean, hidden installation.</figcaption>
-</figure>
-2. CNC Fabrication & Design Images:
-
-HTML
-<!-- IMG_0867.jpeg - CNC Router Machine with Wooden Base Loaded -->
-<figure>
-  <img src="{{ '/assets/IMG_0867.jpeg' | relative_url }}" alt="CNC router machine with wooden base loaded" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">The industrial CNC router is positioned and ready to cut the main circular base of the stool with a 3/8" compression bit, which provides clean cuts on both the top and bottom surfaces of the wood. This setup demonstrates the precision fabrication approach that ensures exact tolerances for all wooden components.</figcaption>
-</figure>
-HTML
-<!-- IMG_0961-2.jpeg - CNC Machine in Operation Cutting Base Design -->
-<figure>
-  <img src="{{ '/assets/IMG_0961-2.jpeg' | relative_url }}" alt="CNC machine in operation cutting the base design" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">Captured mid-operation, the CNC router executes the cutting patterns on the wooden material with the compressed bit tool creating smooth edges and precise geometry. The visible dust and tool movement show the active fabrication process that transforms the CAD design file into physical wooden stool components.</figcaption>
-</figure>
-HTML
-<!-- IMG_0962-2.jpeg - CAD Design File in Vectric Aspire Software -->
-<figure>
-  <img src="{{ '/assets/IMG_0962-2.jpeg' | relative_url }}" alt="CAD design file in Vectric Aspire software" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">The Vectric Aspire software interface displays the vector design with the circular base pattern (22.5 inch diameter) and rectangular leg component layouts precisely dimensioned for CNC cutting. This digital design shows the complete stool structure with marked tool paths and offset tolerances calibrated for optimal fabrication results.</figcaption>
-</figure>
-HTML
-<!-- IMG_0970.jpeg - Detailed Design Blueprint with Dimensions -->
-<figure>
-  <img src="{{ '/assets/IMG_0970.jpeg' | relative_url }}" alt="Detailed design blueprint with dimensions" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">This comprehensive design specifications document contains exact measurements for the stool's structural components, including the 22.5-inch base radius, 18-20 inch leg heights, and component placement locations. The blueprint serves as the reference documentation for both the CNC fabrication process and the electronics installation layout underneath the stool.</figcaption>
-</figure>
-3. Final Assembly & Completion Images:
-
-HTML
-<!-- IMG_0975.jpeg - Finished Smart Stool with Orange Seat and Wooden Legs -->
-<figure>
-  <img src="{{ '/assets/IMG_0975.jpeg' | relative_url }}" alt="Finished smart stool with orange seat and wooden legs" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">The completed smart stool features a vibrant orange padded seat top with decorative beaded trim that adds visual appeal while the wooden legs provide sturdy structural support. All electronics are concealed underneath the base, maintaining a clean aesthetic while the pressure-responsive LED system is ready to activate when someone sits down.</figcaption>
-</figure>
-HTML
-<!-- IMG_0976.jpeg - Electronics During Assembly Showing Wire Connections -->
-<figure>
-  <img src="{{ '/assets/IMG_0976.jpeg' | relative_url }}" alt="Electronics during assembly showing wire connections and board layout" style="width:100%; height:auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">The electronics assembly process reveals the Keyestudio board mounted securely with the load cell sensor connected through carefully routed wires and the RGB LED strip data line protected from sharp bends. The power routing configuration shows how all components are integrated into a cohesive system that fits within the stool's undercarriage without interfering with structural integrity.</figcaption>
-</figure>
+![IMG_0843](assets/IMG_0843.jpeg)
+*Final assembly image showcasing the completed smart stool.*
 
 ---
 
