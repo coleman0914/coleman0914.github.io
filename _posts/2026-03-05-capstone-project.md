@@ -168,13 +168,13 @@ IMG_0961-2 (electronics assembly): The assembly of electronics is shown in this 
 
 IMG_0962-2 (electronics assembly): Another angle of the assembly process emphasizes the  attention to detail involved. Each connection contributes to the broader aim of me combining aesthetics with electronic functionality.![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
 
-IMG_0970 (stool upside down): This image exhibits the underside of the stool, revealing the electronic components carefully housed within. It symbolizes our project’s dual nature, offering both functionality and style.![Design Blueprint](/assets/IMG_0970.jpeg)
+IMG_0970 (stool upside down): This image exhibits the underside of the stool, revealing where the electronic components carefully will be housed within. It symbolizes this project’s two sided nature, offering both functionality and style.![Design Blueprint](/assets/IMG_0970.jpeg)
 
-IMG_0976 (all 144 LEDs): Here, the full array of LEDs is displayed, illustrating the project's innovative approach to interactive lighting. Their placement and configuration are designed to enhance the stool's appeal and user engagement.![Electronics Assembly Detail](/assets/IMG_0976.jpeg)
+IMG_0976 (all 144 LEDs): Here, the full array of LEDs is displayed, illustrating the project's innovative approach to  LEDs. Their placement and brightness level are designed to enhance the stool's appeal.![Electronics Assembly Detail](/assets/IMG_0976.jpeg)
 
-IMG_0975 (30 LEDs): This detail shot captures a section of the LEDs in action, showcasing the vibrant illumination they provide. This design choice reflects our commitment to blending furniture design with responsive technology.[LEDs](/assets/IMG_0975.jpeg)
+IMG_0975 (30 LEDs): This detail shot captures a section of the LEDs in action, showcasing the bright lights they bring.[LEDs](/assets/IMG_0975.jpeg)
 
-IMG_0990 (stool completed): The final image showcases the completed stool, beautifully merging all elements of design and technology. It stands as a testament to our collaborative efforts in creating a functional, interactive piece that embodies the essence of our project.[Stool Complete](assets/IMG_0990.jpeg)
+IMG_0990 (stool completed): The final image showcases the completed stool, showing all elements of design and technology. This shows my effort in creating a functional, interactive stool.[Stool Complete](assets/IMG_0990.jpeg)
 
 
 
