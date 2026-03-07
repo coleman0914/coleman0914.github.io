@@ -220,6 +220,27 @@ The final assembly brings together the wooden furniture structure with integrate
   </figure>
 </div>
 
+
+All pictures: ![Electronics Setup](/assets/IMG_0843.jpeg)
+
+![RGB LED Test 1](/assets/IMG_0852.jpeg)
+
+![RGB LED Test 2](/assets/IMG_0864.jpg)
+
+![Electronics Assembly Workspace](/assets/IMG_0865.jpeg)
+
+![CNC Machine Setup](/assets/IMG_0867.jpeg)
+
+![CNC Cutting Process](/assets/IMG_0961-2.jpeg)
+
+![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
+
+![Design Blueprint](/assets/IMG_0970.jpeg)
+
+![Stool Completed](/assets/IMG_0975.jpeg)
+
+![Electronics Assembly Detail](/assets/IMG_0976.jpeg)
+
 ---
 
 # DOCUMENTATION OF LEARNING
