@@ -178,6 +178,30 @@ void loop() {
 13. Stool Completed The finished smart stool with its vibrant orange padded seat and decorative beaded trim looks really clean. All the electronics are hidden underneath, so you'd never know it has RGB LEDs that light up when you sit down.![Stool Completed](/assets/IMG_0975.jpeg)
 
 
+IMG_0843 (Aspire design): This image showcases the initial design created using Aspire software, laying the groundwork for the stool's intricate features. It embodies the fusion of artistic design and technical precision, illustrating how digital creativity is transformed into physical form.   ![Electronics Setup](/assets/IMG_0843.jpeg)
+
+IMG_0852 (CNC cutting): Here, we see the CNC machine at work, cutting the stool's components from high-density materials. The use of CNC technology exemplifies the project's focus on accuracy, ensuring that every piece fits perfectly together for optimal functionality.![RGB LED Test 1](/assets/IMG_0852.jpeg)
+
+IMG_0864 (allowance offset): This picture highlights the careful measurement adjustments made during the machining process. By accounting for allowance offsets, we ensure that parts fit seamlessly, an essential aspect of combining design with hardware integration. ![RGB LED Test 2](/assets/IMG_0864.jpg)
+
+IMG_0865 (Aspire on CNC): Captured in this image is the Aspire interface displaying the cutting pathway, essential for precision machining. The coordination between software and hardware emphasizes the importance of planning in our project. ![Electronics Assembly Workspace](/assets/IMG_0865.jpeg)
+
+IMG_0867 (CNC in action): This action shot of the CNC machine illustrates the real-time implementation of designs. It showcases the smart manufacturing techniques that bring our interactive stool to life, merging technology with traditional craftsmanship.![CNC Machine Setup](/assets/IMG_0867.jpeg)
+
+IMG_0961-2 (electronics assembly): The assembly of electronics is shown in this image, capturing the intricate wiring needed to enable the stool's pressure-responsive lighting. This integration is key to achieving our vision of a beautifully functional piece of furniture.![CNC Cutting Process](/assets/IMG_0961-2.jpeg)
+
+IMG_0962-2 (electronics assembly): Another angle of the assembly process emphasizes the meticulous attention to detail involved. Each connection contributes to the broader aim of merging aesthetics with electronic functionality.![CAD Design Vectric](/assets/IMG_0962-2.jpeg)
+
+IMG_0970 (stool upside down): This image exhibits the underside of the stool, revealing the electronic components carefully housed within. It symbolizes our project’s dual nature, offering both functionality and style.![Design Blueprint](/assets/IMG_0970.jpeg)
+
+IMG_0976 (all 144 LEDs): Here, the full array of LEDs is displayed, illustrating the project's innovative approach to interactive lighting. Their placement and configuration are designed to enhance the stool's appeal and user engagement.![Electronics Assembly Detail](/assets/IMG_0976.jpeg)
+
+IMG_0975 (30 LEDs): This detail shot captures a section of the LEDs in action, showcasing the vibrant illumination they provide. This design choice reflects our commitment to blending furniture design with responsive technology.[Stool Completed](/assets/IMG_0975.jpeg)
+
+IMG_0990 (stool completed): The final image showcases the completed stool, beautifully merging all elements of design and technology. It stands as a testament to our collaborative efforts in creating a functional, interactive piece that embodies the essence of our project.[Stool Complete](assets/IMG_0990.jpeg)
+
+
+
 ---
 
 # DOCUMENTATION OF LEARNING
